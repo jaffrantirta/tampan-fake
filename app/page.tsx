@@ -238,7 +238,7 @@ export default function Page() {
         <footer className="bg-[#2d3748] text-white text-center py-10">
           <div className="container mx-auto px-6">
             <p id="footer-text" className="text-base opacity-80">
-              © 2024 TAMPAN. Semua hak dilindungi.
+              © 2025 TAMPAN. Semua hak dilindungi.
             </p>
           </div>
         </footer>
